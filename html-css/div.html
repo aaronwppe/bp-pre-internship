@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Block Art</title>
+    <style>
+        .block {
+            min-height: 50px;
+            margin: 0.5%;
+        }
+
+        .row {
+            display: flex;
+        }
+
+        .col {
+            display: block;
+            margin: 0.5%;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Block Art using Divs</h1>
+
+    <p>
+        This HTML/CSS code is an <b>attempt</b> to recreate this <a
+            href="https://i.ytimg.com/vi/SGXdxd_long/maxresdefault.jpg" target="_blank">Image</a> without using
+        Bootstrap.
+        <br>
+        There are a few misalignments in the last row. Perhaps the CSS Grid solution would be easier to work with.
+        <br>
+    <h4><a href="https://www.w3schools.com/html/html_div.asp">Reference</a></h4>
+    </p>
+
+    <div class="row">
+        <div class="block" style="background-color: #006400; width: 100%;"></div>
+    </div>
+
+    <div class="row">
+        <div class="block" style="background-color: yellow; width: 50%;"></div>
+        <div class="block" style="background-color: cyan; width: 50%;"></div>
+    </div>
+
+    <div class="row">
+        <div class="block" style="background-color: purple; width: 50%;"></div>
+
+        <div class="col" style="width: 50%; margin-left: 1%;">
+            <div class="row">
+                <div class="block" style="background-color: black; width: 100%;"></div>
+            </div>
+
+            <div class="row">
+                <div class="block" style="background-color: darkblue; width: 50%;"></div>
+                <div class="block" style="background-color: orange; width: 50%;"></div>
+            </div>
+
+            <div class="row">
+                <div class="block" style="background-color: gray; width: 50%;"></div>
+                <div class="block" style="background-color: maroon; width: 50%;"></div>
+            </div>
+        </div>
+
+    </div>
+
+</body>
+
+</html>
