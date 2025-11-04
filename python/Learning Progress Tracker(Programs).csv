@@ -1,0 +1,1000 @@
+﻿Sequence,Problem Statement
+Prog. 001,"Write a function to find the minimum cost path to reach (m, n) from (0, 0) for the given cost matrix cost[][] and a position (m, n) in cost[][]."
+Prog. 002,Write a function to find the similar elements from the given two tuple lists.
+Prog. 003,Write a python function to identify non-prime numbers.
+Prog. 004,Write a function to find the largest integers from a given list of numbers using heap queue algorithm.
+Prog. 005,Write a function to find the number of ways to fill it with 2 x 1 dominoes for the given 3 x n board.
+Prog. 006,Write a python function to check whether the two numbers differ at one bit position only or not.
+Prog. 007,Write a function to find all words which are at least 4 characters long in a string by using regex.
+Prog. 008,Write a function to find squares of individual elements in a list using lambda function.
+Prog. 009,Write a python function to find the minimum number of rotations required to get the same string.
+Prog. 010,Write a function to get the n smallest items from a dataset.
+Prog. 011,Write a python function to remove first and last occurrence of a given character from the string.
+Prog. 012,Write a function to sort a given matrix in ascending order according to the sum of its rows.
+Prog. 013,Write a function to count the most common words in a dictionary.
+Prog. 014,Write a python function to find the volume of a triangular prism.
+Prog. 015,Write a function to split a string at lowercase letters.
+Prog. 016,Write a function to find sequences of lowercase letters joined with an underscore.
+Prog. 017,Write a function to find the perimeter of a square.
+Prog. 018,Write a function to remove characters from the first string which are present in the second string.
+Prog. 019,Write a function to find whether a given array of integers contains any duplicate element.
+Prog. 020,Write a function to check if the given number is woodball or not.
+Prog. 021,Write a function to find m number of multiples of n.
+Prog. 022,Write a function to find the first duplicate element in a given array of integers.
+Prog. 023,Write a python function to find the maximum sum of elements of list in a list of lists.
+Prog. 024,Write a function to convert the given binary number to its decimal equivalent.
+Prog. 025,Write a python function to find the product of non-repeated elements in a given array.
+Prog. 026,Write a function to check if the given tuple list has all k elements.
+Prog. 027,Write a python function to remove all digits from a list of strings.
+Prog. 028,Write a python function to find binomial co-efficient.
+Prog. 029,Write a python function to find the element occurring odd number of times.
+Prog. 030,Write a python function to count all the substrings starting and ending with same characters.
+Prog. 031,Write a function to find the top k integers that occur most frequently from given lists of sorted and distinct integers using heap queue algorithm.
+Prog. 032,Write a python function to find the largest prime factor of a given number.
+Prog. 033,Write a python function to convert a decimal number to binary number.
+Prog. 034,Write a python function to find the missing number in a sorted array.
+Prog. 035,Write a function to find the n-th rectangular number.
+Prog. 036,Write a python function to find the nth digit in the proper fraction of two given numbers.
+Prog. 037,Write a function to sort a given mixed list of integers and strings.
+Prog. 038,Write a function to find the division of first even and odd number of a given list.
+Prog. 039,Write a function to check if the letters of a given string can be rearranged so that two characters that are adjacent to each other are different.
+Prog. 040,Write a function to find frequency of the elements in a given list of lists using collections module.
+Prog. 041,Write a function to filter even numbers using lambda function.
+Prog. 042,Write a python function to find the sum of repeated elements in a given array.
+Prog. 043,Write a function to find sequences of lowercase letters joined with an underscore using regex.
+Prog. 044,Write a function that matches a word at the beginning of a string.
+Prog. 045,Write a function to find the gcd of the given array elements.
+Prog. 046,Write a python function to determine whether all the numbers are different from each other are not.
+Prog. 047,Write a python function to find the last digit when factorial of a divides factorial of b.
+Prog. 048,Write a python function to set all odd bits of a given number.
+Prog. 049,Write a function to extract every first or specified element from a given two-dimensional list.
+Prog. 050,Write a function to find the list with minimum length using lambda function.
+Prog. 051,Write a function to print check if the triangle is equilateral or not.
+Prog. 052,Write a function to caluclate area of a parallelogram.
+Prog. 053,Write a python function to check whether the first and last characters of a given string are equal or not.
+Prog. 054,Write a function to sort the given array by using counting sort.
+Prog. 055,Write a function to find t-nth term of geometric series.
+Prog. 056,Write a python function to check if a given number is one less than twice its reverse.
+Prog. 057,Write a python function to find the largest number that can be formed with the given digits.
+Prog. 058,Write a python function to check whether the given two integers have opposite sign or not.
+Prog. 059,Write a function to find the nth octagonal number.
+Prog. 060,Write a function to find the maximum length of the subsequence with difference between adjacent elements for the given array.
+Prog. 061,Write a python function to count number of substrings with the sum of digits equal to their length.
+Prog. 062,Write a python function to find smallest number in a list.
+Prog. 063,Write a function to find the maximum difference between available pairs in the given tuple list.
+Prog. 064,Write a function to sort a list of tuples using lambda.
+Prog. 065,Write a function of recursion list sum.
+Prog. 066,Write a python function to count positive numbers in a list.
+Prog. 067,Write a function to find the number of ways to partition a set of bell numbers.
+Prog. 068,Write a python function to check whether the given array is monotonic or not.
+Prog. 069,Write a function to check whether a list contains the given sublist or not.
+Prog. 070,Write a function to find whether all the given tuples have equal length or not.
+Prog. 071,Write a function to sort a list of elements using comb sort.
+Prog. 072,Write a python function to check whether the given number can be represented as difference of two squares or not.
+Prog. 073,Write a function to split the given string with multiple delimiters by using regex.
+Prog. 074,Write a function to check whether it follows the sequence given in the patterns array.
+Prog. 075,Write a function to find tuples which have all elements divisible by k from the given list of tuples.
+Prog. 076,Write a python function to count the number of squares in a rectangle.
+Prog. 077,Write a python function to find the difference between sum of even and odd digits.
+Prog. 078,Write a python function to find number of integers with odd number of set bits.
+Prog. 079,Write a python function to check whether the length of the word is odd or not.
+Prog. 080,Write a function to find the nth tetrahedral number.
+Prog. 081,Write a function to zip the two given tuples.
+Prog. 082,Write a function to find the volume of a sphere.
+Prog. 083,Write a python function to find the character made by adding all the characters of the given string.
+Prog. 084,Write a function to find the n-th number in newman conway sequence.
+Prog. 085,Write a function to find the surface area of a sphere.
+Prog. 086,Write a function to find nth centered hexagonal number.
+Prog. 087,Write a function to merge three dictionaries into a single expression.
+Prog. 088,Write a function to get the frequency of the elements in a list.
+Prog. 089,Write a function to find the closest smaller number than n.
+Prog. 090,Write a python function to find the length of the longest word.
+Prog. 091,Write a function to check if a substring is present in a given list of string values.
+Prog. 092,Write a function to check whether the given number is undulating or not.
+Prog. 093,Write a function to calculate the value of 'a' to the power 'b'.
+Prog. 094,Write a function to extract the index minimum value record from the given tuples.
+Prog. 095,Write a python function to find the minimum length of sublist.
+Prog. 096,Write a python function to find the number of divisors of a given integer.
+Prog. 097,Write a function to find frequency count of list of lists.
+Prog. 098,Write a function to multiply all the numbers in a list and divide with the length of the list.
+Prog. 099,Write a function to convert the given decimal number to its binary equivalent.
+Prog. 100,Write a function to find the next smallest palindrome of a specified number.
+Prog. 101,Write a function to find the kth element in the given array.
+Prog. 102,Write a function to convert snake case string to camel case string.
+Prog. 103,"Write a function to find eulerian number a(n, m)."
+Prog. 104,Write a function to sort each sublist of strings in a given list of lists using lambda function.
+Prog. 105,Write a python function to count true booleans in the given list.
+Prog. 106,Write a function to add the given list to the given tuples.
+Prog. 107,Write a python function to count hexadecimal numbers for a given range.
+Prog. 108,Write a function to merge multiple sorted inputs into a single sorted iterator using heap queue algorithm.
+Prog. 109,Write a python function to find the count of rotations of a binary string with odd value.
+Prog. 110,Write a function to extract the ranges that are missing from the given list with the given start range and end range values.
+Prog. 111,Write a function to find common elements in given nested lists. * list item * list item * list item * list item
+Prog. 112,Write a python function to find the perimeter of a cylinder.
+Prog. 113,Write a function to check if a string represents an integer or not.
+Prog. 114,Write a function to assign frequency to each tuple in the given tuple list.
+Prog. 115,Write a function to check whether all dictionaries in a list are empty or not.
+Prog. 116,Write a function to convert a given tuple of positive integers into an integer.
+Prog. 117,Write a function to convert all possible convertible elements in the list to float.
+Prog. 118,[link text](https:// [link text](https:// [link text](https://)))write a function to convert a string to a list.
+Prog. 119,Write a python function to find the element that appears only once in a sorted array.
+Prog. 120,Write a function to find the maximum product from the pairs of tuples within a given list.
+Prog. 121,Write a function to find the triplet with sum of the given array
+Prog. 122,Write a function to find n\u2019th smart number.
+Prog. 123,Write a function to sum all amicable numbers from 1 to a specified number.
+Prog. 124,Write a function to get the angle of a complex number.
+Prog. 125,Write a function to find the maximum difference between the number of 0s and number of 1s in any sub-string of the given binary string.
+Prog. 126,Write a python function to find the sum of common divisors of two given numbers.
+Prog. 127,Write a function to multiply two integers without using the * operator in python.
+Prog. 128,Write a function to shortlist words that are longer than n from a given list of words.
+Prog. 129,Write a function to calculate magic square.
+Prog. 130,Write a function to find the item with maximum frequency in a given list.
+Prog. 131,Write a python function to reverse only the vowels of a given string.
+Prog. 132,Write a function to convert tuple to a string.
+Prog. 133,Write a function to calculate the sum of the negative numbers of a given list of numbers using lambda function.
+Prog. 134,Write a python function to check whether the last element of given array is even or odd after performing an operation p times.
+Prog. 135,Write a function to find the nth hexagonal number.
+Prog. 136,Write a function to calculate electricity bill.
+Prog. 137,Write a function to find the ration of zeroes in an array of integers.
+Prog. 138,Write a python function to check whether the given number can be represented as sum of non-zero powers of 2 or not.
+Prog. 139,Write a function to find the circumference of a circle.
+Prog. 140,Write a function to extract elements that occur singly in the given tuple list.
+Prog. 141,Write a function to sort a list of elements using pancake sort.
+Prog. 142,Write a function to count the same pair in three given lists.
+Prog. 143,Write a function to find number of lists present in the given tuple.
+Prog. 144,Write a python function to find the sum of absolute differences in all pairs of the given array.
+Prog. 145,Write a python function to find the maximum difference between any two elements in a given array.
+Prog. 146,Write a function to find the ascii value of total characters in a string.
+Prog. 147,Write a function to find the maximum total path sum in the given triangle.
+Prog. 148,Write a function to divide a number into two parts such that the sum of digits is maximum.
+Prog. 149,Write a function to find the longest subsequence such that the difference between adjacents is one for the given array.
+Prog. 150,Write a python function to find whether the given number is present in the infinite sequence or not.
+Prog. 151,Write a python function to check whether the given number is co-prime or not.
+Prog. 152,Write a function to sort the given array by using merge sort.
+Prog. 153,Write a function to find the vertex of a parabola.
+Prog. 154,Write a function to extract every specified element from a given two dimensional list.
+Prog. 155,Write a python function to toggle all even bits of a given number.
+Prog. 156,Write a function to convert a tuple of string values to a tuple of integer values.
+Prog. 157,Write a function to reflect the run-length encoding from a list.
+Prog. 158,Write a python function to find k number of operations required to make all elements equal.
+Prog. 159,Write a function to print the season for the given month and day.
+Prog. 160,Write a function to find x and y that satisfies ax + by = n.
+Prog. 161,Write a function to remove all elements from a given list present in another list.
+Prog. 162,Write a function to calculate the sum of the positive integers of n+(n-2)+(n-4)... (until n-x =< 0).
+Prog. 163,Write a function to calculate the area of a regular polygon.
+Prog. 164,Write a python function to check whether the sum of divisors are same or not.
+Prog. 165,Write a python function to count characters at same position in a given string (lower and uppercase characters) as in english alphabet.
+Prog. 166,Write a python function to count the pairs with xor as an even number.
+Prog. 167,Write a python function to find smallest power of 2 greater than or equal to n.
+Prog. 168,Write a python function to find the frequency of a number in a given array.
+Prog. 169,Write a function to calculate the nth pell number.
+Prog. 170,Write a function to find sum of the numbers in a list between the indices of a specified range.
+Prog. 171,Write a function to find the perimeter of a pentagon.
+Prog. 172,Write a function to find the occurence of characters 'std' in the given string 1. list item 1. list item 1. list item 2. list item 2. list item 2. list item
+Prog. 173,Write a function to remove everything except alphanumeric characters from a string.
+Prog. 174,Write a function to group a sequence of key-value pairs into a dictionary of lists.
+Prog. 175,Write a function to verify validity of a string of parentheses.
+Prog. 176,Write a function to find the perimeter of a triangle.
+Prog. 177,Write a python function to find two distinct numbers such that their lcm lies within the given range.
+Prog. 178,Write a function to search some literals strings in a string.
+Prog. 179,Write a function to find if the given number is a keith number or not.
+Prog. 180,Write a function to calculate distance between two points using latitude and longitude.
+Prog. 181,Write a function to find the longest common prefix in the given set of strings.
+Prog. 182,"Write a function to find uppercase, lowercase, special character and numeric values using regex."
+Prog. 183,Write a function to count all the distinct pairs having a difference of k in any array.
+Prog. 184,Write a function to find all the values in a list that are greater than a specified number.
+Prog. 185,Write a function to find the focus of a parabola.
+Prog. 186,Write a function to search some literals strings in a string by using regex.
+Prog. 187,Write a function to find the longest common subsequence for the given two sequences.
+Prog. 188,Write a python function to check whether the given number can be represented by product of two squares or not.
+Prog. 189,Write a python function to find the first missing positive number.
+Prog. 190,Write a python function to count the number of integral co-ordinates that lie inside a square.
+Prog. 191,Write a function to check whether the given month name contains 30 days or not.
+Prog. 192,Write a python function to check whether a string has atleast one letter and one number.
+Prog. 193,Write a function to remove the duplicates from the given tuple.
+Prog. 194,Write a python function to convert octal number to decimal number.
+Prog. 195,Write a python function to find the first position of an element in a sorted array.
+Prog. 196,Write a function to remove all the tuples with length k.
+Prog. 197,Write a function to perform the exponentiation of the given two tuples.
+Prog. 198,Write a function to find the largest triangle that can be inscribed in an ellipse.
+Prog. 199,Write a python function to find highest power of 2 less than or equal to given number.
+Prog. 200,Write a function to find all index positions of the maximum values in a given list.
+Prog. 201,Write a python function to check whether the elements in a list are same or not.
+Prog. 202,Write a function to remove even characters in a string.
+Prog. 203,Write a python function to find the hamming distance between given two integers.
+Prog. 204,Write a python function to count the occurrence of a given character in a string.
+Prog. 205,Write a function to find the inversions of tuple elements in the given tuple list.
+Prog. 206,Write a function to perform the adjacent element concatenation in the given tuples.
+Prog. 207,Write a function to count the longest repeating subsequences such that the two subsequences don\u2019t have same string characters at same positions.
+Prog. 208,Write a function to check the given decimal with a precision of 2 by using regex.
+Prog. 209,Write a function to delete the smallest element from the given heap and then insert a new item.
+Prog. 210,"Write a function to check that the given string contains only a certain set of characters(in this case a-z, a-z and 0-9) by using regex."
+Prog. 211,Write a python function to count numbers whose oth and nth bits are set.
+Prog. 212,Write a python function to find the sum of fourth power of n natural numbers.
+Prog. 213,Write a function to perform the concatenation of two string tuples.
+Prog. 214,Write a function to convert radians to degrees.
+Prog. 215,Write a function to decode a run-length encoded given list.
+Prog. 216,Write a function to check if a nested list is a subset of another nested list.
+Prog. 217,Write a python function to find the first repeated character in a given string.
+Prog. 218,Write a python function to find the minimum operations required to make two numbers equal.
+Prog. 219,Write a function to extract maximum and minimum k elements in the given tuple.
+Prog. 220,"Write a function to replace maximum n occurrences of spaces, commas, or dots with a colon."
+Prog. 221,Write a python function to find the first even number in a given list of numbers.
+Prog. 222,Write a function to check if all the elements in tuple have same data type or not.
+Prog. 223,Write a function to check for majority element in the given sorted array.
+Prog. 224,Write a python function to count set bits of a given number.
+Prog. 225,Write a python function to find the minimum element in a sorted and rotated array.
+Prog. 226,Write a python function to remove the characters which have odd index values of a given string.
+Prog. 227,Write a function to find minimum of three numbers.
+Prog. 228,Write a python function to check whether all the bits are unset in the given range or not.
+Prog. 229,Write a function to re-arrange the elements of the given array so that all negative elements appear before positive ones.
+Prog. 230,Write a function to replace blank spaces with any character in a string.
+Prog. 231,Write a function to find the maximum sum in the given right triangle of numbers.
+Prog. 232,Write a function to get the n largest items from a dataset.
+Prog. 233,Write a function to find the lateral surface area of a cylinder.
+Prog. 234,Write a function to find the volume of a cube.
+Prog. 235,Write a python function to set all even bits of a given number.
+Prog. 236,Write a python function to count the maximum number of equilateral triangles that can be formed within a given equilateral triangle.
+Prog. 237,Write a function to check the occurrences of records which occur similar times in the given tuples.
+Prog. 238,Write a python function to count number of non-empty substrings of a given string.
+Prog. 239,Write a function to find the number of possible sequences of length n such that each of the next element is greater than or equal to twice of the previous element but less than or equal to m.
+Prog. 240,Write a function to replace the last element of the list with another list.
+Prog. 241,Write a function to generate a 3d array having each element as '*'.
+Prog. 242,Write a function to count total characters in a string.
+Prog. 243,Write a function to sort the given list based on the occurrence of first element of tuples.
+Prog. 244,Write a python function to find the next perfect square greater than a given number.
+Prog. 245,Write a function to find the maximum sum of bi-tonic sub-sequence for the given array.
+Prog. 246,Write a function for computing square roots using the babylonian method.
+Prog. 247,Write a function to find the longest palindromic subsequence in the given string.
+Prog. 248,Write a function to calculate the harmonic sum of n-1.
+Prog. 249,Write a function to find the intersection of two arrays using lambda function.
+Prog. 250,Write a python function to count the occcurences of an element in a tuple.
+Prog. 251,Write a function to insert an element before each element of a list.
+Prog. 252,Write a python function to convert complex numbers to polar coordinates.
+Prog. 253,Write a python function to count integers from a given list.
+Prog. 254,Write a function to find all words starting with 'a' or 'e' in a given string.
+Prog. 255,Write a function to choose specified number of colours from three different colours and generate all the combinations with repetitions.
+Prog. 256,Write a python function to count the number of prime numbers less than a given non-negative number.
+Prog. 257,Write a function to swap two numbers.
+Prog. 258,Write a function to find number of odd elements in the given list using lambda function.
+Prog. 259,Write a function to maximize the given two tuples.
+Prog. 260,Write a function to find the nth newman\u2013shanks\u2013williams prime number.
+Prog. 261,Write a function to perform mathematical division operation across the given tuples.
+Prog. 262,Write a function to split a given list into two parts where the length of the first part of the list is given.
+Prog. 263,Write a function to merge two dictionaries.
+Prog. 264,Write a function to calculate a dog's age in dog's years.
+Prog. 265,Write a function to split a list for every nth element.
+Prog. 266,Write a function to find the lateral surface area of a cube.
+Prog. 267,Write a python function to find the sum of squares of first n odd natural numbers.
+Prog. 268,Write a function to find the n'th star number.
+Prog. 269,Write a function to find the ascii value of a character.
+Prog. 270,Write a python function to find the sum of even numbers at even positions.
+Prog. 271,Write a python function to find the sum of fifth power of first n even natural numbers.
+Prog. 272,Write a function to perfom the rear element extraction from list of tuples records.
+Prog. 273,Write a function to substract the contents of one tuple with corresponding index of other tuple.
+Prog. 274,Write a python function to find sum of even index binomial coefficients.
+Prog. 275,Write a python function to find the position of the last removed element from the given array.
+Prog. 276,Write a function to find the volume of a cylinder.
+Prog. 277,Write a function to filter a dictionary based on values.
+Prog. 278,Write a function to find the element count that occurs before the record in the given tuple.
+Prog. 279,Write a function to find the nth decagonal number.
+Prog. 280,Write a function to search an element in the given array by using sequential search.
+Prog. 281,Write a python function to check if the elements of a given list are unique or not.
+Prog. 282,Write a function to substaract two lists using map and lambda function.
+Prog. 283,Write a python function to check whether the frequency of each digit is less than or equal to the digit itself.
+Prog. 284,Write a function to check whether all items of a list are equal to a given string.
+Prog. 285,Write a function that matches a string that has an a followed by two to three 'b'.
+Prog. 286,Write a function to find the largest sum of contiguous array in the modified array which is formed by repeating the given array k times.
+Prog. 287,Write a python function to find the sum of squares of first n even natural numbers.
+Prog. 288,Write a function to count array elements having modular inverse under given prime number p equal to itself.
+Prog. 289,Write a python function to calculate the number of odd days in a given year.
+Prog. 290,Write a function to find the list of lists with maximum length.
+Prog. 291,Write a function to find out the number of ways of painting the fence such that at most 2 adjacent posts have the same color for the given fence with n posts and k colors.
+Prog. 292,Write a python function to find quotient of two numbers.
+Prog. 293,Write a function to find the third side of a right angled triangle.
+Prog. 294,Write a function to find the maximum value in a given heterogeneous list.
+Prog. 295,Write a function to return the sum of all divisors of a number.
+Prog. 296,Write a python function to count inversions in an array.
+Prog. 297,Write a function to flatten a given nested list structure.
+Prog. 298,Write a function to find the nested list elements which are present in another list.
+Prog. 299,Write a function to calculate the maximum aggregate from the list of tuples.
+Prog. 300,Write a function to find the count of all binary sequences of length 2n such that sum of first n bits is same as sum of last n bits.
+Prog. 301,Write a function to find the depth of a dictionary.
+Prog. 302,Write a python function to find the most significant bit number which is also a set bit.
+Prog. 303,Write a python function to check whether the count of inversion of two types are same or not.
+Prog. 304,Write a python function to find element at a given index after number of rotations.
+Prog. 305,Write a function to match two words from a list of words starting with letter 'p'.
+Prog. 306,"Write a function to find the maximum sum of increasing subsequence from prefix till ith index and also including a given kth element which is after i, i.e., k > i ."
+Prog. 307,Write a function to get a colon of a tuple.
+Prog. 308,Write a function to find the specified number of largest products from two given lists.
+Prog. 309,Write a python function to find the maximum of two numbers.
+Prog. 310,Write a function to convert a given string to a tuple.
+Prog. 311,Write a python function to set the left most unset bit.
+Prog. 312,Write a function to find the volume of a cone.
+Prog. 313,Write a python function to print positive numbers in a list.
+Prog. 314,Write a function to find out the maximum sum such that no two chosen numbers are adjacent for the given rectangular grid of dimension 2 x n.
+Prog. 315,Write a python function to find the first maximum length of even word.
+Prog. 316,Write a function to find the index of the last occurrence of a given number in a sorted array.
+Prog. 317,Write a function to reflect the modified run-length encoding from a list.
+Prog. 318,Write a python function to find the maximum volume of a cuboid with given sum of sides.
+Prog. 319,Write a function to find all five characters long word in the given string by using regex.
+Prog. 320,Write a function to calculate the difference between the squared sum of first n natural numbers and the sum of squared first n natural numbers.
+Prog. 321,Write a function to find the demlo number for the given number.
+Prog. 322,Write a function to find all index positions of the minimum values in a given list.
+Prog. 323,Write a function to re-arrange the given array in alternating positive and negative items.
+Prog. 324,Write a function to extract the sum of alternate chains of tuples.
+Prog. 325,Write a python function to find the minimum number of squares whose sum is equal to a given number.
+Prog. 326,Write a function to get the word with most number of occurrences in the given strings list.
+Prog. 327,Write a function to print check if the triangle is isosceles or not.
+Prog. 328,Write a function to rotate a given list by specified number of items to the left direction.
+Prog. 329,Write a python function to count negative numbers in a list.
+Prog. 330,"Write a function to find all three, four, five characters long words in the given string by using regex."
+Prog. 331,Write a python function to count unset bits of a given number.
+Prog. 332,Write a function to count character frequency of a given string.
+Prog. 333,Write a python function to sort a list according to the second element in sublist.
+Prog. 334,Write a python function to check whether the triangle is valid or not if sides are given.
+Prog. 335,Write a function to find the sum of arithmetic progression.
+Prog. 336,Write a function to check whether the given month name contains 28 days or not.
+Prog. 337,"Write a function that matches a word at the end of a string, with optional punctuation."
+Prog. 338,Write a python function to count the number of substrings with same first and last characters.
+Prog. 339,Write a python function to find the maximum occuring divisor in an interval.
+Prog. 340,Write a python function to find the sum of the three lowest positive numbers from a given list of numbers.
+Prog. 341,Write a function to convert the given set into ordered tuples.
+Prog. 342,Write a function to find the smallest range that includes at-least one element from each of the given arrays.
+Prog. 343,Write a function to calculate the number of digits and letters in a string.
+Prog. 344,Write a python function to find number of elements with odd factors in a given range.
+Prog. 345,Write a function to find the difference between two consecutive numbers in a given list.
+Prog. 346,"Write a function to find entringer number e(n, k)."
+Prog. 347,Write a python function to count the number of squares in a rectangle.
+Prog. 348,Write a function to count sequences of given length having non-negative prefix sums that can be generated by given values.
+Prog. 349,Write a python function to check whether the given string is a binary string or not.
+Prog. 350,Write a python function to minimize the length of the string by removing occurrence of only one character.
+Prog. 351,Write a python function to find the first element occurring k times in a given array.
+Prog. 352,Write a python function to check whether all the characters in a given string are unique.
+Prog. 353,Write a function to remove a specified column from a given nested list.
+Prog. 354,Write a function to find t-nth term of arithemetic progression.
+Prog. 355,Write a python function to count the number of rectangles in a circle of radius r.
+Prog. 356,Write a function to find the third angle of a triangle using two angles.
+Prog. 357,Write a function to find the maximum element of all the given tuple records.
+Prog. 358,Write a function to find modulo division of two lists using map and lambda function.
+Prog. 359,Write a python function to check whether one root of the quadratic equation is twice of the other or not.
+Prog. 360,Write a function to find the n\u2019th carol number.
+Prog. 361,Write a function to remove empty lists from a given list of lists.
+Prog. 362,Write a python function to find the item with maximum occurrences in a given list.
+Prog. 363,Write a function to add the k elements to each element in the tuple.
+Prog. 364,Write a function to find the number of flips required to make the given binary string a sequence of alternate characters.
+Prog. 365,Write a python function to count the number of digits of a given number.
+Prog. 366,Write a python function to find the largest product of the pair of adjacent elements from a given list of integers.
+Prog. 367,Write a function to check if a binary tree is balanced or not.
+Prog. 368,Write a function to repeat the given tuple n times.
+Prog. 369,Write a function to find the lateral surface area of cuboid
+Prog. 370,Write a function to sort a tuple by its float element.
+Prog. 371,Write a function to find the smallest missing element in a sorted array.
+Prog. 372,Write a function to sort a given list of elements in ascending order using heap queue algorithm.
+Prog. 373,Write a function to find the volume of a cuboid.
+Prog. 374,Write a function to print all permutations of a given string including duplicates.
+Prog. 375,Write a function to round the given number to the nearest multiple of a specific number.
+Prog. 376,Write a function to remove tuple elements that occur more than once and replace the duplicates with some custom value.
+Prog. 377,Write a python function to remove all occurrences of a character in a given string.
+Prog. 378,Write a python function to shift last element to first position in the given list.
+Prog. 379,Write a function to find the surface area of a cuboid.
+Prog. 380,Write a function to generate a two-dimensional array.
+Prog. 381,Write a function to sort a list of lists by a given index of the inner list.
+Prog. 382,Write a function to find the number of rotations in a circularly sorted array.
+Prog. 383,Write a python function to toggle all odd bits of a given number.
+Prog. 384,Write a python function to find the frequency of the smallest value in a given array.
+Prog. 385,Write a function to find the n'th perrin number using recursion.
+Prog. 386,Write a function to find out the minimum no of swaps required for bracket balancing in the given string.
+Prog. 387,Write a python function to check whether the hexadecimal number is even or odd.
+Prog. 388,Write a python function to find the highest power of 2 that is less than or equal to n.
+Prog. 389,Write a function to find the n'th lucas number.
+Prog. 390,Write a function to insert a given string at the beginning of all items in a list.
+Prog. 391,Write a function to convert more than one list to nested dictionary.
+Prog. 392,"Write a function to find the maximum sum possible by using the given equation f(n) = max( (f(n/2) + f(n/3) + f(n/4) + f(n/5)), n)."
+Prog. 393,Write a function to find the list with maximum length using lambda function.
+Prog. 394,Write a function to check if given tuple is distinct or not.
+Prog. 395,Write a python function to find the first non-repeated character in a given string.
+Prog. 396,Write a function to check whether the given string starts and ends with the same character or not using regex.
+Prog. 397,Write a function to find the median of three specific numbers.
+Prog. 398,Write a function to compute the sum of digits of each number of a given list.
+Prog. 399,Write a function to perform the mathematical bitwise xor operation across the given tuples.
+Prog. 400,Write a function to extract the frequency of unique tuples in the given list order irrespective.
+Prog. 401,Write a function to perform index wise addition of tuple elements in the given two nested tuples.
+Prog. 402,Write a function to compute the value of ncr%p.
+Prog. 403,Write a function to check if a url is valid or not using regex.
+Prog. 404,Write a python function to find the minimum of two numbers.
+Prog. 405,Write a function to check whether an element exists within a tuple.
+Prog. 406,Write a python function to find the parity of a given number.
+Prog. 407,Write a function to create the next bigger number by rearranging the digits of a given number.
+Prog. 408,Write a function to find k number of pairs which consist of one element from the first array and one element from the second array.
+Prog. 409,Write a function to find the minimum product from the pairs of tuples within a given list.
+Prog. 410,Write a function to find the minimum value in a given heterogeneous list.
+Prog. 411,Write a function to convert the given snake case string to camel case string by using regex.
+Prog. 412,Write a python function to remove odd numbers from a given list.
+Prog. 413,Write a function to extract the nth element from a given list of tuples.
+Prog. 414,Write a python function to check whether the value exists in a sequence or not.
+Prog. 415,Write a python function to find a pair with highest product from a given array of integers.
+Prog. 416,Write a function to find the maximum sum we can make by dividing number in three parts recursively and summing them up together for the given number.
+Prog. 417,Write a function to find common first element in given list of tuple.
+Prog. 418,Write a python function to find the sublist having maximum length.
+Prog. 419,Write a function to round every number of a given list of numbers and print the total sum multiplied by the length of the list.
+Prog. 420,Write a python function to find the cube sum of first n even natural numbers.
+Prog. 421,Write a function to concatenate each element of tuple by the delimiter.
+Prog. 422,Write a python function to find the average of cubes of first n natural numbers.
+Prog. 423,Write a function to solve gold mine problem.
+Prog. 424,Write a function to extract only the rear index element of each string in the given tuple.
+Prog. 425,Write a function to count the number of sublists containing a particular element.
+Prog. 426,Write a function to filter odd numbers using lambda function.
+Prog. 427,Write a function to convert a date of yyyy-mm-dd format to dd-mm-yyyy format by using regex.
+Prog. 428,Write a function to sort the given array by using shell sort.
+Prog. 429,Write a function to extract the elementwise and tuples from the given two tuples.
+Prog. 430,Write a function to find the directrix of a parabola.
+Prog. 431,Write a function that takes two lists and returns true if they have at least one common element.
+Prog. 432,Write a function to find the median of a trapezium.
+Prog. 433,Write a function to check whether the entered number is greater than the elements of the given array.
+Prog. 434,Write a function that matches a string that has an a followed by one or more b's.
+Prog. 435,Write a python function to find the last digit of a given number.
+Prog. 436,Write a python function to print negative numbers in a list.
+Prog. 437,Write a function to remove odd characters in a string.
+Prog. 438,Write a function to count bidirectional tuple pairs.
+Prog. 439,Write a function to convert a list of multiple integers into a single integer.
+Prog. 440,Write a function to find all adverbs and their positions in a given sentence.
+Prog. 441,Write a function to find the surface area of a cube.
+Prog. 442,Write a function to find the ration of positive numbers in an array of integers.
+Prog. 443,Write a python function to find the largest negative number from the given list.
+Prog. 444,Write a function to trim each tuple by k in the given tuple list.
+Prog. 445,Write a function to perform index wise multiplication of tuple elements in the given two tuples.
+Prog. 446,Write a python function to count the occurence of all elements of list in a tuple.
+Prog. 447,Write a function to find cubes of individual elements in a list using lambda function.
+Prog. 448,Write a function to calculate the sum of perrin numbers.
+Prog. 449,Write a python function to check whether the triangle is valid or not if 3 points are given.
+Prog. 450,Write a function to extract specified size of strings from a give list of string values.
+Prog. 451,Write a function to remove all whitespaces from the given string using regex.
+Prog. 452,Write a function that gives loss amount if the given amount has loss else return none.
+Prog. 453,Write a python function to find the sum of even factors of a number.
+Prog. 454,Write a function that matches a word containing 'z'.
+Prog. 455,Write a function to check whether the given month number contains 31 days or not.
+Prog. 456,Write a function to reverse strings in a given list of string values.
+Prog. 457,Write a python function to find the sublist having minimum length.
+Prog. 458,Write a function to find the area of a rectangle.
+Prog. 459,Write a function to remove uppercase substrings from a given string by using regex.
+Prog. 460,Write a python function to get the first element of each sublist.
+Prog. 461,Write a python function to count the upper case characters in a given string.
+Prog. 462,Write a function to find all possible combinations of the elements of a given list.
+Prog. 463,Write a function to find the maximum product subarray of the given array.
+Prog. 464,Write a function to check if all values are same in a dictionary.
+Prog. 465,Write a function to drop empty items from a given dictionary.
+Prog. 466,Write a function to find the peak element in the given array.
+Prog. 467,Write a python function to convert decimal number to octal number.
+Prog. 468,Write a function to find the maximum product formed by multiplying numbers of an increasing subsequence of that array.
+Prog. 469,Write a function to find the maximum profit earned from a maximum of k stock transactions
+Prog. 470,Write a function to find the pairwise addition of the elements of the given tuples.
+Prog. 471,Write a python function to find remainder of array multiplication divided by n.
+Prog. 472,Write a python function to check whether the given list contains consecutive numbers or not.
+Prog. 473,Write a function to find the tuple intersection of elements in the given tuple list irrespective of their order.
+Prog. 474,Write a function to replace characters in a string.
+Prog. 475,Write a function to sort counter by value.
+Prog. 476,Write a python function to find the sum of the largest and smallest value in a given array.
+Prog. 477,Write a python function to convert the given string to lower case.
+Prog. 478,Write a function to remove lowercase substrings from a given string.
+Prog. 479,Write a python function to find the first digit of a given number.
+Prog. 480,Write a python function to find the maximum occurring character in a given string.
+Prog. 481,Write a function to determine if there is a subset of the given set with sum equal to the given sum.
+Prog. 482,Write a function to find sequences of one upper case letter followed by lower case letters in the given string by using regex.
+Prog. 483,Write a python function to find the first natural number whose factorial is divisible by x.
+Prog. 484,Write a function to remove the matching tuples from the given two tuples.
+Prog. 485,Write a function to find the largest palindromic number in the given array.
+Prog. 486,Write a function to compute binomial probability for the given number.
+Prog. 487,Write a function to sort a list of tuples in increasing order by the last element in each tuple.
+Prog. 488,Write a function to find the area of a pentagon.
+Prog. 489,Write a python function to find the frequency of the largest value in a given array.
+Prog. 490,Write a function to extract all the pairs which are symmetric in the given tuple list.
+Prog. 491,Write a function to find the sum of geometric progression series.
+Prog. 492,Write a function to search an element in the given array by using binary search.
+Prog. 493,"Write a function to calculate a grid of hexagon coordinates where function returns a list of lists containing 6 tuples of x, y point coordinates."
+Prog. 494,Write a function to convert the given binary tuple to integer.
+Prog. 495,Write a function to remove lowercase substrings from a given string by using regex.
+Prog. 496,Write a function to find the smallest integers from a given list of numbers using heap queue algorithm.
+Prog. 497,Write a function to find the surface area of a cone.
+Prog. 498,Write a python function to find gcd of two positive integers.
+Prog. 499,Write a function to find the diameter of a circle.
+Prog. 500,Write a function to concatenate all elements of the given list into a string.
+Prog. 501,Write a python function to find common divisor between two numbers in a given pair.
+Prog. 502,Write a python function to find remainder of two numbers.
+Prog. 503,Write a function to add consecutive numbers of a given list.
+Prog. 504,Write a python function to find the cube sum of first n natural numbers.
+Prog. 505,Write a function to move all zeroes to the end of the given array.
+Prog. 506,"Write a function to calculate the permutation coefficient of given p(n, k)."
+Prog. 507,Write a function to remove specific words from a given list.
+Prog. 508,Write a function to check if the common elements between two given lists are in the same order or not.
+Prog. 509,Write a python function to find the average of odd numbers till a given odd number.
+Prog. 510,Write a function to find the number of subsequences having product smaller than k for the given non negative array.
+Prog. 511,Write a python function to find minimum sum of factors of a given number.
+Prog. 512,Write a function to count the element frequency in the mixed nested tuple.
+Prog. 513,Write a function to convert tuple into list by adding the given string after every element.
+Prog. 514,Write a function to find the summation of tuple elements in the given tuple list.
+Prog. 515,Write a function to check if there is a subset with sum divisible by m.
+Prog. 516,Write a function to sort a list of elements using radix sort.
+Prog. 517,Write a python function to find the largest postive number from the given list.
+Prog. 518,Write a function to find the square root of a perfect number.
+Prog. 519,Write a function to calculate volume of a tetrahedron.
+Prog. 520,Write a function to find the lcm of the given array elements.
+Prog. 521,Write a function to print check if the triangle is scalene or not.
+Prog. 522,Write a function to find the longest bitonic subsequence for the given array.
+Prog. 523,"Write a function to check whether a given string has a capital letter, a lower case letter, a number and specified length using lambda function."
+Prog. 524,Write a function to find the sum of maximum increasing subsequence of the given array.
+Prog. 525,Write a python function to check whether two given lines are parallel or not.
+Prog. 526,Write a python function to capitalize first and last letters of each word of a given string.
+Prog. 527,Write a function to find all pairs in an integer array whose sum is equal to a given number.
+Prog. 528,Write a function to find the list of lists with minimum length.
+Prog. 529,Write a function to find the nth jacobsthal-lucas number.
+Prog. 530,Write a function to find the ration of negative numbers in an array of integers.
+Prog. 531,Write a function to find minimum number of coins that make a given value.
+Prog. 532,Write a function to check if the two given strings are permutations of each other.
+Prog. 533,Write a function to remove particular data type elements from the given tuple.
+Prog. 534,Write a function to search a literals string in a string and also find the location within the original string where the pattern occurs.
+Prog. 535,Write a function to find the top or bottom surface area of a cylinder.
+Prog. 536,Write a function to select the nth items of a list.
+Prog. 537,Write a python function to find the first repeated word in a given string.
+Prog. 538,Write a python function to convert a given string list to a tuple.
+Prog. 539,Write a function to create a list containing the power of said number in bases raised to the corresponding number in the index using map function.
+Prog. 540,Write a python function to find the difference between highest and least frequencies in a given array.
+Prog. 541,Write a function to find if the given number is abundant or not.
+Prog. 542,"Write a function to replace all occurrences of spaces, commas, or dots with a colon in the given string by using regex."
+Prog. 543,Write a function to add two numbers and print number of digits of sum.
+Prog. 544,Write a function to flatten the tuple list to a string.
+Prog. 545,Write a python function to toggle only first and last bits of a given number.
+Prog. 546,Write a function to find the last occurrence of a character in a string.
+Prog. 547,Write a python function to find the sum of hamming distances of all consecutive numbers from o to n.
+Prog. 548,Write a function to find the length of the longest increasing subsequence of the given sequence.
+Prog. 549,Write a python function to find the sum of fifth power of first n odd natural numbers.
+Prog. 550,Write a python function to find the maximum element in a sorted and rotated array.
+Prog. 551,Write a function to extract a specified column from a given nested list.
+Prog. 552,Write a python function to check whether a given sequence is linear or not.
+Prog. 553,Write a function to convert the given tuple to a floating-point number.
+Prog. 554,Write a python function to find odd numbers from a mixed list.
+Prog. 555,Write a python function to find the difference between sum of cubes of first n natural numbers and the sum of first n natural numbers.
+Prog. 556,Write a python function to count the pairs with xor as an odd number.
+Prog. 557,Write a function to toggle characters case in a string.
+Prog. 558,Write a python function to find the digit distance between two integers.
+Prog. 559,Write a function to find the largest sum of contiguous subarray in the given array.
+Prog. 560,Write a function to find the union of elements of the given tuples.
+Prog. 561,"Write a function to assign with each element, its pair elements from other similar pairs in the given tuple."
+Prog. 562,Write a python function to find the maximum length of sublist.
+Prog. 563,Write a function to extract values between quotation marks of a string.
+Prog. 564,Write a python function to count unequal element pairs from the given array.
+Prog. 565,Write a python function to split a string into characters.
+Prog. 566,Write a function to get the sum of a non-negative integer.
+Prog. 567,Write a function to check whether a specified list is sorted or not.
+Prog. 568,Write a function to create a list of empty dictionaries.
+Prog. 569,Write a function to sort each sublist of strings in a given list of lists.
+Prog. 570,Write a function to remove words from a given list of strings containing a character or string.
+Prog. 571,Write a function to find maximum possible sum of disjoint pairs for the given array of integers and a number k.
+Prog. 572,Write a python function to remove two duplicate numbers from a given number of lists.
+Prog. 573,Write a python function to calculate the product of the unique numbers of a given list.
+Prog. 574,Write a function to find the surface area of a cylinder.
+Prog. 575,Write a python function to find nth number in a sequence which is not a multiple of a given number.
+Prog. 576,Write a python function to check whether an array is subarray of another or not.
+Prog. 577,Write a python function to find the last digit in factorial of a given number.
+Prog. 578,Write a function to interleave lists of the same length.
+Prog. 579,Write a function to find the dissimilar elements in the given two tuples.
+Prog. 580,Write a function to extract the even elements in the nested mixed tuple.
+Prog. 581,Write a python function to find the surface area of the square pyramid.
+Prog. 582,Write a function to check if a dictionary is empty or not.
+Prog. 583,Write a function for nth catalan number.
+Prog. 584,Write a function to find all adverbs and their positions in a given sentence by using regex.
+Prog. 585,Write a function to find the n - expensive price items from a given dataset using heap queue algorithm.
+Prog. 586,Write a python function to split the array and add the first part to the end.
+Prog. 587,Write a function to convert a list to a tuple.
+Prog. 588,Write a python function to find the difference between largest and smallest value in a given array.
+Prog. 589,Write a function to find perfect squares between two given numbers.
+Prog. 590,Write a function to convert polar coordinates to rectangular coordinates.
+Prog. 591,Write a python function to interchange the first and last elements in a list.
+Prog. 592,Write a python function to find sum of product of binomial co-efficients.
+Prog. 593,Write a function to remove leading zeroes from an ip address.
+Prog. 594,Write a function to find the difference of first even and odd number of a given list.
+Prog. 595,Write a python function to count minimum number of swaps required to convert one binary string to another.
+Prog. 596,Write a function to find the size of the given tuple.
+Prog. 597,Write a function to find kth element from the given two sorted arrays.
+Prog. 598,Write a function to check whether the given number is armstrong or not.
+Prog. 599,Write a function to find sum and average of first n natural numbers.
+Prog. 600,Write a python function to check whether the given number is even or not using bitwise operator.
+Prog. 601,Write a function to find the longest chain which can be formed from the given set of pairs.
+Prog. 602,Write a python function to find the first repeated character in a given string.
+Prog. 603,Write a function to get a lucid number smaller than or equal to n.
+Prog. 604,Write a function to reverse words in a given string.
+Prog. 605,Write a function to check if the given integer is a prime number.
+Prog. 606,Write a function to convert degrees to radians.
+Prog. 607,Write a function to search a literals string in a string and also find the location within the original string where the pattern occurs by using regex.
+Prog. 608,Write a python function to find nth bell number.
+Prog. 609,Write a python function to find minimum possible value for the given periodic function.
+Prog. 610,Write a python function to remove the k'th element from a given list.
+Prog. 611,Write a function to find the maximum of nth column from the given tuple list.
+Prog. 612,Write a python function to merge the first and last elements separately in a list of lists.
+Prog. 613,Write a function to find the maximum value in record list as tuple attribute in the given tuple list.
+Prog. 614,Write a function to find the cumulative sum of all the values that are present in the given tuple list.
+Prog. 615,Write a function to find average value of the numbers in a given tuple of tuples.
+Prog. 616,Write a function to perfom the modulo of tuple elements in the given two tuples.
+Prog. 617,"Write a function to check for the number of jumps required of given length to reach a point of form (d, 0) from origin in a 2d plane."
+Prog. 618,Write a function to divide two lists using map and lambda function.
+Prog. 619,Write a function to move all the numbers in it to the given string.
+Prog. 620,Write a function to find the largest subset where each pair is divisible.
+Prog. 621,Write a function to increment the numeric values in the given strings by k.
+Prog. 622,Write a function to find the median of two sorted arrays of same size.
+Prog. 623,Write a function to find the n-th power of individual elements in a list using lambda function.
+Prog. 624,Write a python function to convert the given string to upper case.
+Prog. 625,Write a python function to interchange first and last elements in a given list.
+Prog. 626,Write a python function to find the largest triangle that can be inscribed in the semicircle.
+Prog. 627,Write a python function to find the smallest missing number from the given array.
+Prog. 628,Write a function to replace all spaces in the given string with character * list item * list item * list item * list item '%20'.
+Prog. 629,Write a python function to find even numbers from a mixed list.
+Prog. 630,Write a function to extract all the adjacent coordinates of the given coordinate tuple.
+Prog. 631,Write a function to replace whitespaces with an underscore and vice versa in a given string by using regex.
+Prog. 632,Write a python function to move all zeroes to the end of the given list.
+Prog. 633,Write a python function to find the sum of xor of all pairs of numbers in the given array.
+Prog. 634,Write a python function to find the sum of fourth power of first n even natural numbers.
+Prog. 635,Write a function to push all values into a heap and then pop off the smallest values one at a time.
+Prog. 636,Write a python function to check if roots of a quadratic equation are reciprocal of each other or not.
+Prog. 637,Write a function to check whether the given amount has no profit and no loss
+Prog. 638,Write a function to calculate wind chill index.
+Prog. 639,Write a function to sum the length of the names of a given list of names after removing the names that start with a lowercase letter.
+Prog. 640,Write a function to remove the parenthesis area in a string.
+Prog. 641,Write a function to find the nth nonagonal number.
+Prog. 642,Write a function to remove similar rows from the given tuple matrix.
+Prog. 643,"Write a function that matches a word containing 'z', not at the start or end of the word."
+Prog. 644,Write a python function to reverse an array upto a given position.
+Prog. 645,Write a function to find the product of it\u2019s kth index in the given tuples.
+Prog. 646,Write a python function to count number of cubes of size k in a cube of size n.
+Prog. 647,Write a function to split a string at uppercase letters.
+Prog. 648,Write a function to exchange the position of every n-th value with (n+1)th value and (n+1)th value with n-th value in a given list.
+Prog. 649,Write a python function to calculate the sum of the numbers in a list between the indices of a specified range.
+Prog. 650,Write a python function to check whether the given two arrays are equal or not.
+Prog. 651,Write a function to check if one tuple is a subset of another tuple.
+Prog. 652,Write a function to flatten the given tuple matrix into the tuple list with each tuple representing each column.
+Prog. 653,Write a function to group a sequence of key-value pairs into a dictionary of lists using collections module.
+Prog. 654,Write a function to find the perimeter of a rectangle.
+Prog. 655,Write a python function to find the sum of fifth power of n natural numbers.
+Prog. 656,Write a python function to find the minimum sum of absolute differences of two arrays.
+Prog. 657,Write a python function to find the first digit in factorial of a given number.
+Prog. 658,Write a function to find the item with maximum occurrences in a given list.
+Prog. 659,Write a python function to print duplicants from a list of integers.
+Prog. 660,Write a python function to choose points from two ranges such that no point lies in both the ranges.
+Prog. 661,Write a function to find the maximum sum that can be formed which has no three consecutive elements present.
+Prog. 662,Write a function to sort a list in a dictionary.
+Prog. 663,Write a function to find the largest possible value of k such that k modulo x is y.
+Prog. 664,Write a python function to find the average of even numbers till a given even number.
+Prog. 665,Write a python function to shift first element to the end of given list.
+Prog. 666,Write a function to count occurrence of a character in a string.
+Prog. 667,Write a python function to count number of vowels in the string.
+Prog. 668,Write a python function to replace multiple occurence of character by single.
+Prog. 669,Write a function to check whether the given ip address is valid or not using regex.
+Prog. 670,Write a python function to check whether a sequence of numbers has a decreasing trend or not.
+Prog. 671,Write a python function to set the right most unset bit.
+Prog. 672,Write a function to find maximum of three numbers.
+Prog. 673,Write a python function to convert a list of multiple integers into a single integer.
+Prog. 674,Write a function to remove duplicate words from a given string using collections module.
+Prog. 675,"Write a function to add two integers. however, if the sum is between the given range it will return 20."
+Prog. 676,Write a function to remove everything except alphanumeric characters from the given string by using regex.
+Prog. 677,Write a function to check if the triangle is valid or not.
+Prog. 678,Write a python function to remove spaces from a given string.
+Prog. 679,Write a function to access dictionary key\u2019s element by index.
+Prog. 680,Write a python function to check whether a sequence of numbers has an increasing trend or not.
+Prog. 681,Write a python function to find the smallest prime divisor of a number.
+Prog. 682,Write a function to multiply two lists using map and lambda function.
+Prog. 683,Write a python function to check whether the given number can be represented by sum of two squares or not.
+Prog. 684,Write a python function to count occurences of a character in a repeated string.
+Prog. 685,Write a python function to find sum of prime numbers between 1 to n.
+Prog. 686,Write a function to find the frequency of each element in the given list.
+Prog. 687,Write a function to find the greatest common divisor (gcd) of two integers by using recursion.
+Prog. 688,Write a function to get the length of a complex number.
+Prog. 689,## write a function to find the minimum number of jumps to reach the end of the array for the given array of integers where each element represents the max number of steps that can be made forward from that element. > indented block > indented block
+Prog. 690,Write a function to multiply consecutive numbers of a given list.
+Prog. 691,Write a function to group the 1st elements on the basis of 2nd elements in the given tuple list.
+Prog. 692,Write a python function to find the last two digits in factorial of a given number.
+Prog. 693,Write a function to remove multiple spaces in a string by using regex.
+Prog. 694,Write a function to extract unique values from the given dictionary values.
+Prog. 695,Write a function to check if each element of the second tuple is greater than its corresponding index in the first tuple.
+Prog. 696,Write a function to zip two given lists of lists.
+Prog. 697,Write a function to find number of even elements in the given list using lambda function.
+Prog. 698,Write a function to sort dictionary items by tuple product of keys for the given dictionary with tuple keys.
+Prog. 699,Write a python function to find the minimum number of swaps required to convert one binary string to another.
+Prog. 700,Write a function to count the number of elements in a list which are within a specific range.
+Prog. 701,Write a function to find the equilibrium index of the given array.
+Prog. 702,Write a function to find the minimum number of elements that should be removed such that amax-amin<=k.
+Prog. 703,Write a function to check whether the given key is present in the dictionary or not.
+Prog. 704,Write a function to calculate the harmonic sum of n-1.
+Prog. 705,Write a function to sort a list of lists by length and value.
+Prog. 706,Write a function to find whether an array is subset of another array.
+Prog. 707,Write a python function to count the total set bits from 1 to n.
+Prog. 708,Write a python function to convert a string to a list.
+Prog. 709,Write a function to count unique keys for each value present in the tuple.
+Prog. 710,Write a function to access the initial and last data of the given tuple record.
+Prog. 711,Write a python function to check whether the product of digits of a number at even and odd places is equal or not.
+Prog. 712,Write a function to remove duplicates from a list of lists.
+Prog. 713,Write a function to check if the given tuple contains all valid values or not.
+Prog. 714,Write a python function to count the number of distinct power of prime factor of given number.
+Prog. 715,Write a function to convert the given string of integers into a tuple.
+Prog. 716,Write a function to find the perimeter of a rombus.
+Prog. 717,Write a function to calculate the standard deviation.
+Prog. 718,Write a function to create a list taking alternate elements from another given list.
+Prog. 719,Write a function that matches a string that has an a followed by zero or more b's.
+Prog. 720,Write a function to add a dictionary to the tuple.
+Prog. 721,Write a function to find a path with the maximum average over all existing paths for the given square matrix of size n*n.
+Prog. 722,Write a function to filter the height and width of students which are stored in a dictionary.
+Prog. 723,Write a function to count the same pair in two given lists using map function.
+Prog. 724,Write a function to calculate the sum of all digits of the base to the specified power.
+Prog. 725,Write a function to extract values between quotation marks of the given string by using regex.
+Prog. 726,Write a function to multiply the adjacent elements of the given tuple.
+Prog. 727,Write a function to remove all characters except letters and numbers using regex
+Prog. 728,Write a function to sum elements in two lists.
+Prog. 729,Write a function to add two lists using map and lambda function.
+Prog. 730,Write a function to remove consecutive duplicates of a given list.
+Prog. 731,Write a function to find the lateral surface area of a cone.
+Prog. 732,"Write a function to replace all occurrences of spaces, commas, or dots with a colon."
+Prog. 733,Write a function to find the index of the first occurrence of a given number in a sorted array.
+Prog. 734,Write a python function to find sum of products of all possible subarrays.
+Prog. 735,Write a python function to toggle bits of the number except the first and the last bit.
+Prog. 736,Write a function to locate the left insertion point for a specified value in sorted order.
+Prog. 737,Write a function to check whether the given string is starting with a vowel or not using regex.
+Prog. 738,Write a function to calculate the geometric sum of n-1.
+Prog. 739,Write a python function to find the index of smallest triangular number with n digits.
+Prog. 740,Write a function to convert the given tuple to a key-value dictionary using adjacent elements.
+Prog. 741,Write a python function to check whether all the characters are same or not.
+Prog. 742,Write a function to caluclate the area of a tetrahedron.
+Prog. 743,Write a function to rotate a given list by specified number of items to the right direction.
+Prog. 744,Write a function to check if the given tuple has any none value or not.
+Prog. 745,Write a function to find numbers within a given range where every number is divisible by every digit it contains.
+Prog. 746,Write a function to find area of a sector.
+Prog. 747,Write a function to find the longest common subsequence for the given three string sequence.
+Prog. 748,Write a function to put spaces between words starting with capital letters in a given string by using regex.
+Prog. 749,Write a function to sort a given list of strings of numbers numerically.
+Prog. 750,Write a function to add the given tuple to the given list.
+Prog. 751,Write a function to check if the given array represents min heap or not.
+Prog. 752,Write a function to find the nth jacobsthal number.
+Prog. 753,Write a function to find minimum k records from tuple list.
+Prog. 754,Write a function to find common index elements from three lists.
+Prog. 755,Write a function to find the second smallest number in a list.
+Prog. 756,Write a function that matches a string that has an a followed by zero or one 'b'.
+Prog. 757,Write a function to count the pairs of reverse strings in the given string list.
+Prog. 758,Write a function to count number of unique lists within a list.
+Prog. 759,Write a function to check a decimal with a precision of 2.
+Prog. 760,Write a python function to check whether an array contains only one distinct element or not.
+Prog. 761,Write a function to caluclate arc length of an angle.
+Prog. 762,Write a function to check whether the given month number contains 30 days or not.
+Prog. 763,Write a python function to find the minimum difference between any two elements in a given array.
+Prog. 764,Write a python function to count numeric values in a given string.
+Prog. 765,Write a function to find nth polite number.
+Prog. 766,Write a function to iterate over all pairs of consecutive items in a given list.
+Prog. 767,Write a python function to count the number of pairs whose sum is equal to \u2018sum\u2019.
+Prog. 768,Write a python function to check for odd parity of a given number.
+Prog. 769,Write a python function to get the difference between two lists.
+Prog. 770,Write a python function to find the sum of fourth power of first n odd natural numbers.
+Prog. 771,Write a function to check if the given expression is balanced or not.
+Prog. 772,Write a function to remove all the words with k length in the given string.
+Prog. 773,Write a function to find the occurrence and position of the substrings within a string.
+Prog. 774,Write a function to check if the string is a valid email address or not using regex.
+Prog. 775,Write a python function to check whether every odd index contains odd numbers of a given list.
+Prog. 776,Write a function to count those characters which have vowels as their neighbors in the given string.
+Prog. 777,Write a python function to find the sum of non-repeated elements in a given array.
+Prog. 778,Write a function to pack consecutive duplicates of a given list elements into sublists.
+Prog. 779,Write a function to count the number of unique lists within a list.
+Prog. 780,Write a function to find the combinations of sums with tuples in the given tuple list.
+Prog. 781,Write a python function to check whether the count of divisors is even or odd.
+Prog. 782,Write a python function to find the sum of all odd length subarrays.
+Prog. 783,Write a function to convert rgb color to hsv color.
+Prog. 784,Write a function to find the product of first even and odd number of a given list.
+Prog. 785,Write a function to convert tuple string to integer tuple.
+Prog. 786,Write a function to locate the right insertion point for a specified value in sorted order.
+Prog. 787,Write a function that matches a string that has an a followed by three 'b'.
+Prog. 788,Write a function to create a new tuple from the given string and list.
+Prog. 789,Write a function to calculate the perimeter of a regular polygon.
+Prog. 790,Write a python function to check whether every even index contains even numbers of a given list.
+Prog. 791,Write a function to remove the nested record from the given tuple.
+Prog. 792,Write a python function to count the number of lists in a given number of lists.
+Prog. 793,Write a python function to find the last position of an element in a sorted array.
+Prog. 794,"Write a function that matches a string that has an 'a' followed by anything, ending in 'b'."
+Prog. 795,Write a function to find the n - cheap price items from a given dataset using heap queue algorithm.
+Prog. 796,Write function to find the sum of all items in the given dictionary.
+Prog. 797,Write a python function to find the sum of all odd natural numbers within the range l and r.
+Prog. 798,Write a python function to find the sum of an array.
+Prog. 799,Write a python function to left rotate the bits of a given number.
+Prog. 800,Write a function to remove all whitespaces from a string.
+Prog. 801,Write a python function to count the number of equal numbers from three given integers.
+Prog. 802,Write a python function to count the number of rotations required to generate a sorted array.
+Prog. 803,Write a python function to check whether the given number is a perfect square or not.
+Prog. 804,Write a python function to check whether the product of numbers is even or not.
+Prog. 805,Write a function to find the list in a list of lists whose sum of elements is the highest.
+Prog. 806,Write a function to find maximum run of uppercase characters in the given string.
+Prog. 807,Write a python function to find the first odd number in a given list of numbers.
+Prog. 808,Write a function to check if the given tuples contain the k or not.
+Prog. 809,Write a function to check if each element of second tuple is smaller than its corresponding index in first tuple.
+Prog. 810,Write a function to iterate over elements repeating each as many times as its count.
+Prog. 811,Write a function to check if two lists of tuples are identical or not.
+Prog. 812,Write a function to abbreviate 'road' as 'rd.' in a given string.
+Prog. 813,Write a function to find length of the string.
+Prog. 814,Write a function to find the area of a rombus.
+Prog. 815,"Write a function to sort the given array without using any sorting algorithm. the given array consists of only 0, 1, and 2."
+Prog. 816,Write a function to clear the values of the given tuples.
+Prog. 817,Write a function to find numbers divisible by m or n from a list of numbers using lambda function.
+Prog. 818,Write a python function to count lower case letters in a given string.
+Prog. 819,Write a function to count the frequency of consecutive duplicate elements in a given list of numbers.
+Prog. 820,Write a function to check whether the given month number contains 28 days or not.
+Prog. 821,Write a function to merge two dictionaries into a single expression.
+Prog. 822,Write a function to return true if the password is valid.
+Prog. 823,Write a function to check if the given string starts with a substring using regex.
+Prog. 824,Write a python function to remove even numbers from a given list.
+Prog. 825,Write a python function to access multiple elements of specified index from a given list.
+Prog. 826,Write a python function to find the type of triangle from the given sides.
+Prog. 827,Write a function to sum a specific column of a list in a given list of lists.
+Prog. 828,"Write a function to count alphabets,digits and special charactes in a given string."
+Prog. 829,Write a function to find out the second most repeated (or frequent) string in the given sequence.
+Prog. 830,Write a function to round up a number to specific digits.
+Prog. 831,Write a python function to count equal element pairs from the given array.
+Prog. 832,Write a function to extract the maximum numeric value from a string by using regex.
+Prog. 833,Write a function to get dictionary keys as a list.
+Prog. 834,Write a function to generate a square matrix filled with elements from 1 to n raised to the power of 2 in spiral order.
+Prog. 835,Write a python function to find the slope of a line.
+Prog. 836,Write a function to find length of the subarray having maximum sum.
+Prog. 837,Write a python function to find the cube sum of first n odd natural numbers.
+Prog. 838,Write a python function to find minimum number swaps required to make two binary strings equal.
+Prog. 839,Write a function to sort the tuples alphabetically by the first item of each tuple.
+Prog. 840,Write a python function to check whether the roots of a quadratic equation are numerically equal but opposite in sign or not.
+Prog. 841,Write a function to count the number of inversions in the given array.
+Prog. 842,Write a function to find the number which occurs for odd number of times in the given array.
+Prog. 843,Write a function to find the nth super ugly number from a given prime list of size k using heap queue algorithm.
+Prog. 844,Write a python function to find the kth element in an array containing odd elements first and then even elements.
+Prog. 845,Write a python function to count the number of digits in factorial of a given number.
+Prog. 846,Write a function to find the minimum number of platforms required for a railway/bus station.
+Prog. 847,Write a python function to copy a list from a singleton tuple.
+Prog. 848,Write a function to find the area of a trapezium.
+Prog. 849,Write a python function to find sum of all prime divisors of a given number.
+Prog. 850,Write a function to check if a triangle of positive area is possible with the given angles.
+Prog. 851,Write a python function to find sum of inverse of divisors.
+Prog. 852,Write a python function to remove negative numbers from a list.
+Prog. 853,Write a python function to find sum of odd factors of a number.
+Prog. 854,Write a function which accepts an arbitrary list and converts it to a heap using heap queue algorithm.
+Prog. 855,Write a python function to check for even parity of a given number.
+Prog. 856,Write a python function to find minimum adjacent swaps required to sort binary array.
+Prog. 857,Write a function to list out the list of given strings individually using map function.
+Prog. 858,Write a function to count number of lists in a given list of lists and square the count.
+Prog. 859,Write a function to generate all sublists of a given list.
+Prog. 860,Write a function to check whether the given string is ending with only alphanumeric characters or not using regex.
+Prog. 861,Write a function to find all anagrams of a string in a given list of strings using lambda function.
+Prog. 862,Write a function to find the occurrences of n most common words in a given text.
+Prog. 863,Write a function to find the length of the longest sub-sequence such that elements in the subsequences are consecutive integers.
+Prog. 864,Write a function to find palindromes in a given list of strings using lambda function.
+Prog. 865,Write a function to print n-times a list using map function.
+Prog. 866,Write a function to check whether the given month name contains 31 days or not.
+Prog. 867,Write a python function to add a minimum number such that the sum of array becomes even.
+Prog. 868,Write a python function to find the length of the last word in a given string.
+Prog. 869,"Write a function to remove sublists from a given list of lists, which are outside a given range."
+Prog. 870,Write a function to calculate the sum of the positive numbers of a given list of numbers using lambda function.
+Prog. 871,Write a python function to check whether the given strings are rotations of each other or not.
+Prog. 872,Write a function to check if a nested list is a subset of another nested list.
+Prog. 873,Write a function to solve the fibonacci sequence using recursion.
+Prog. 874,Write a python function to check if the string is a concatenation of another string.
+Prog. 875,Write a function to find the minimum difference in the tuple pairs of given tuples.
+Prog. 876,Write a python function to find lcm of two positive integers.
+Prog. 877,Write a python function to sort the given string.
+Prog. 878,Write a function to check if the given tuple contains only k elements.
+Prog. 879,"Write a function that matches a string that has an 'a' followed by anything, ending in 'b' by using regex."
+Prog. 880,Write a python function to find number of solutions in quadratic equation.
+Prog. 881,Write a function to find the sum of first even and odd number of a given list.
+Prog. 882,Write a function to caluclate perimeter of a parallelogram.
+Prog. 883,Write a function to find numbers divisible by m and n from a list of numbers using lambda function.
+Prog. 884,Write a python function to check whether all the bits are within a given range or not.
+Prog. 885,Write a python function to check whether the two given strings are isomorphic to each other or not.
+Prog. 886,Write a function to add all the numbers in a list and divide it with the length of the list.
+Prog. 887,Write a python function to check whether the given number is odd or not using bitwise operator.
+Prog. 888,Write a function to substract the elements of the given nested tuples.
+Prog. 889,Write a function to reverse each list in a given list of lists.
+Prog. 890,Write a python function to find the index of an extra element present in one sorted array.
+Prog. 891,Write a python function to check whether the given two numbers have same number of digits or not.
+Prog. 892,Write a function to remove multiple spaces in a string.
+Prog. 893,Write a python function to get the last element of each sublist.
+Prog. 894,Write a function to convert the given string of float type into tuple.
+Prog. 895,Write a function to find the maximum sum of subsequences of given array with no adjacent elements.
+Prog. 896,Write a function to sort a list in increasing order by the last element in each tuple from a given list of non-empty tuples.
+Prog. 897,Write a python function to check whether the word is present in a given sentence or not.
+Prog. 898,"Write a function to extract specified number of elements from a given list, which follow each other continuously."
+Prog. 899,Write a python function to check whether an array can be sorted or not by picking only the corner elements.
+Prog. 900,Write a function where a string will start with a specific number.
+Prog. 901,Write a function to find the smallest multiple of the first n numbers.
+Prog. 902,Write a function to combine two dictionaries by adding values for common keys.
+Prog. 903,Write a python function to count the total unset bits from 1 to n.
+Prog. 904,Write a function to return true if the given number is even else return false.
+Prog. 905,Write a python function to find the sum of squares of binomial co-efficients.
+Prog. 906,"Write a function to extract year, month and date from a url by using regex."
+Prog. 907,Write a function to print the first n lucky numbers.
+Prog. 908,Write a function to find the fixed point in the given array.
+Prog. 909,Write a function to find the previous palindrome of a specified number.
+Prog. 910,Write a function to validate a gregorian date.
+Prog. 911,Write a function to compute maximum product of three numbers of a given array of integers using heap queue algorithm.
+Prog. 912,"Write a function to find ln, m lobb number."
+Prog. 913,Write a function to check for a number at the end of a string.
+Prog. 914,Write a python function to check whether the given string is made up of two alternating characters or not.
+Prog. 915,Write a function to rearrange positive and negative numbers in a given array using lambda function.
+Prog. 916,Write a function to find if there is a triplet in the array whose sum is equal to a given value.
+Prog. 917,Write a function to find the sequences of one upper case letter followed by lower case letters.
+Prog. 918,Write a function to count coin change.
+Prog. 919,Write a python function to multiply all items in the list.
+Prog. 920,Write a function to remove all tuples with all none values in the given tuple list.
+Prog. 921,Write a function to perform chunking of tuples each of size n.
+Prog. 922,Write a function to find a pair with the highest product from a given array of integers.
+Prog. 923,Write a function to find the length of the shortest string that has both str1 and str2 as subsequences.
+Prog. 924,Write a function to find maximum of two numbers.
+Prog. 925,Write a python function to calculate the product of all the numbers of a given tuple.
+Prog. 926,Write a function to find n-th rencontres number.
+Prog. 927,Write a function to calculate the height of the given binary tree.
+Prog. 928,Write a function to convert a date of yyyy-mm-dd format to dd-mm-yyyy format.
+Prog. 929,Write a function to count repeated items of a tuple.
+Prog. 930,Write a function that matches a string that has an a followed by zero or more b's by using regex.
+Prog. 931,Write a function to calculate the sum of series 1\u00b3+2\u00b3+3\u00b3+\u2026.+n\u00b3.
+Prog. 932,Write a function to remove duplicate words from a given list of strings.
+Prog. 933,Write a function to convert camel case string to snake case string by using regex.
+Prog. 934,Write a function to find the nth delannoy number.
+Prog. 935,Write a function to calculate the sum of series 1\u00b2+2\u00b2+3\u00b2+\u2026.+n\u00b2.
+Prog. 936,Write a function to re-arrange the given tuples based on the given ordered list.
+Prog. 937,Write a function to count the most common character in a given string.
+Prog. 938,Write a function to find three closest elements from three sorted arrays.
+Prog. 939,Write a function to sort a list of dictionaries using lambda function.
+Prog. 940,Write a function to sort the given array by using heap sort.
+Prog. 941,Write a function to count the elements in a list until an element is a tuple.
+Prog. 942,Write a function to check if any list element is present in the given list.
+Prog. 943,Write a function to combine two given sorted lists using heapq module.
+Prog. 944,Write a function to separate and print the numbers and their position of a given string.
+Prog. 945,Write a function to convert the given tuples into set.
+Prog. 946,Write a function to find the most common elements and their counts of a specified text.
+Prog. 947,Write a python function to find the length of the shortest word.
+Prog. 948,Write a function to get an item of a tuple.
+Prog. 949,Write a function to sort the given tuple list basis the total digits in tuple.
+Prog. 950,Write a function to display sign of the chinese zodiac for given year.
+Prog. 951,Write a function to find the maximum of similar indices in two lists of tuples.
+Prog. 952,Write a function to compute the value of ncr mod p.
+Prog. 953,Write a python function to find the minimun number of subsets with distinct elements.
+Prog. 954,Write a function that gives profit amount if the given amount has profit else return none.
+Prog. 955,"Write a function to find out, if the given number is abundant."
+Prog. 956,Write a function to split the given string at uppercase letters by using regex.
+Prog. 957,Write a python function to get the position of rightmost set bit.
+Prog. 958,Write a function to convert an integer into a roman numeral.
+Prog. 959,Write a python function to find the average of a list.
+Prog. 960,Write a function to solve tiling problem.
+Prog. 961,Write a function to convert a roman numeral to an integer.
+Prog. 962,Write a python function to find the sum of all even natural numbers within the range l and r.
+Prog. 963,Write a function to calculate the discriminant value.
+Prog. 964,Write a python function to check whether the length of the word is even or not.
+Prog. 965,Write a function to convert camel case string to snake case string.
+Prog. 966,Write a function to remove an empty tuple from a list of tuples.
+Prog. 967,Write a python function to accept the strings which contains all vowels.
+Prog. 968,Write a python function to find maximum possible value for the given periodic function.
+Prog. 969,Write a function to join the tuples if they have similar initial elements.
+Prog. 970,Write a function to find minimum of two numbers.
+Prog. 971,"Write a function to find the maximum number of segments of lengths a, b and c that can be formed from n."
+Prog. 972,Write a function to concatenate the given two tuples to a nested tuple.
+Prog. 973,Write a python function to left rotate the string.
+Prog. 974,Write a function to find the minimum total path sum in the given triangle.
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
