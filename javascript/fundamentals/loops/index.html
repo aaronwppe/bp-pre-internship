@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Loops</title>
+</head>
+
+<body>
+    <script>
+        // Task 4
+        let outputString = "For Loop: ";
+
+        for (let num = 2; num <= 10; num++) {
+            if (num % 2 === 0) {
+                outputString = outputString + ", " + num;
+            }
+        }
+
+        // Task 5
+        outputString += "\nWhile Loop: ";
+
+        let num = 2;
+        while (num <= 10) {
+            if (num % 2 === 0) {
+                outputString = outputString + ", " + num;
+            }
+
+            num++;
+        }
+
+        alert(outputString);
+
+        // Task 6
+        let userInput = "0";
+
+        while (userInput && (+userInput <= 100)) {
+            userInput = prompt("Number:", "");
+        }
+
+        // Task 7
+
+        let primeLimit = +prompt("Enter Prime Limit (inclusive): ", "");
+        let primes = "";
+
+        prime_block: {
+            if (primeLimit < 2) {
+                break prime_block;
+            }
+
+            primes += "2";
+
+            num_loop: for (let i = 3; i <= primeLimit; i++) {
+                for (let j = 2; j < i; j++) {
+                    if (i % j == 0) {
+                        continue num_loop;
+                    }
+                }
+
+                primes = primes + ", " + i;
+            }
+        }
+
+        alert("Primes: " + primes);
+
+    </script>
+</body>
+
+</html>

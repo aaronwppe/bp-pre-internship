@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Logical Operators</title>
+</head>
+
+<body>
+    <script>
+        function login() {
+            const userName = prompt("Who's there?", "");
+
+            if (!userName) {
+                alert("Canceled");
+                return;
+            }
+            else if (userName !== "Admin") {
+                alert("I don't know you");
+                return;
+            }
+
+            const password = prompt("Password?", "");
+
+            if (!password) {
+                alert("Canceled");
+                return;
+            }
+            else if (password !== "TheMaster") {
+                alert("Wrong password");
+                return;
+            }
+
+            alert("Welcome!");
+        }
+
+        login();
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Function Basics Tasks</title>
+</head>
+
+<body>
+    <script>
+        function min(num_1, num_2) {
+            if (num_1 <= num_2) {
+                return num_1;
+            } else {
+                return num_2;
+            }
+        }
+
+        function pow(base, exponent) {
+            return base ** exponent;
+        }
+
+        base = +prompt("Input Base", '');
+        exponent = +prompt("Input Exponent", '');
+
+        alert(`${base} ^ ${exponent} = ${pow(base, exponent)}`);
+    </script>
+</body>
+
+</html>
