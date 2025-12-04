@@ -3,9 +3,7 @@
 
 # References:
 # - https://www.youtube.com/watch?v=MOIJxae_7Pk
-
-# NOT COMPLETE
-# The math applied in the 'num < root' condition is incorrect.
+# - https://leetcode.com/problems/integer-to-roman/
 
 # must be ordered
 ROMAN_NUMERAL_SYMBOLS = {
@@ -38,6 +36,32 @@ def get_all_limits() -> tuple[int, ...]:
 ALL_LIMITS: tuple[int, ...] = get_all_limits()
 
 
+def get_roman_numeral(num: int) -> str | None:
+    if num <= 0:
+        return None
+
+    left = ""
+    right = ""
+
+    root = _get_nearest_root_numeral(num)
+
+    if num < root:
+        left_num = _get_left_num(num)
+        right_num = num - left_num
+
+        left = get_roman_numeral(root - left_num)
+        right = get_roman_numeral(right_num) if right_num != 0 else ""
+
+    multipler = max(num // root, 1)
+    middle = ROMAN_NUMERAL_SYMBOLS[root] * multipler
+
+    mid_num = root * multipler
+    if num > mid_num:
+        right = get_roman_numeral(num - mid_num)
+
+    return left + middle + right
+
+
 def _get_nearest_root_numeral(num: int) -> int:
     if num in ROMAN_NUMERAL_SYMBOLS:
         return num
@@ -49,41 +73,58 @@ def _get_nearest_root_numeral(num: int) -> int:
     return MAX_ROMAN_NUMERAL
 
 
-def get_roman_numeral(num: int) -> str | None:
+def _get_left_num(num: int) -> tuple[int, int]:
+    count = 0
+    digit = num
+
+    while num > 0:
+        count += 1
+        digit = num % 10
+        num //= 10
+
+    return digit * 10 ** (count - 1)
+
+
+LEFT_MOST_ROMAN_NUMERALS = [
+    (1000, "M"),
+    (900, "CM"),
+    (500, "D"),
+    (400, "CD"),
+    (100, "C"),
+    (90, "XC"),
+    (50, "L"),
+    (40, "XL"),
+    (10, "X"),
+    (9, "IX"),
+    (5, "V"),
+    (4, "IV"),
+    (1, "I"),
+]
+
+
+# this solution is taken from 'leetcode'
+def get_roman_numeral_2(num: int) -> str | None:
     if num <= 0:
         return None
 
-    left = ""
-    right = ""
+    ret = ""
 
-    root = _get_nearest_root_numeral(num)
+    for value, symbol in LEFT_MOST_ROMAN_NUMERALS:
+        ret += symbol * (num // value)
+        num %= value
 
-    print(num, root)
-    if num < root:
-        x = root // 10
-
-        left_num = (num // x) * x if x != 0 else num
-        left = get_roman_numeral(root - left_num)
-
-        if num != left_num:
-            right = get_roman_numeral(num - left_num)
-
-    root_multiple = max(num // root, 1)
-    # Same as,
-    # root_multiple = (num // root) if num > root else 1
-
-    middle = ROMAN_NUMERAL_SYMBOLS[root] * root_multiple
-
-    if num > root and (root * root_multiple) != num:
-        right = get_roman_numeral(num - (root * root_multiple))
-
-    return left + middle + right
+    return ret
 
 
 if __name__ == "__main__":
-    nums = [46]
-    for n in nums:
-        print(n, " = ", get_roman_numeral(n))
+    nums_1 = [1, 5, 10, 50, 100, 500, 1000]
+    nums_2 = [3, 7, 17, 65, 157, 276]
+    nums_3 = [6, 4, 11, 9, 90, 110]
+    nums_4 = [96, 609, 444, 18, 34]
+    nums_5 = [176, 97, 1846]
+
+    for num in nums_5:
+        print(f"{num} = {get_roman_numeral_2(num)}")
 
 # ===================
 
@@ -105,7 +146,6 @@ if __name__ == "__main__":
 # 7 = VII
 # 17 = XVII
 # 65 = LXV
-
 # 157 = CLVII
 # 276 = CCLXXVI
 
@@ -119,7 +159,6 @@ if __name__ == "__main__":
 # 96 = XCVI
 # 609 = DCIX
 # 444 = CDXLIV
-
 # 18 = XVIII
 # 34 = XXXIV
 
