@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Modal</title>
+    <script src="main.js"></script>
+    <style>
+        .modal {
+            display: none;
+            z-index: 1;
+        }
+
+        .modal-content {
+            margin: 10% auto;
+            border: 1px solid;
+            padding: 5%;
+        }
+    </style>
+</head>
+
+<body>
+    <div style="width: 300px; margin: auto; text-align: center;">
+        <button type="button" onclick="showModal()">Show Modal</button>
+        <div class="modal" id="modal">
+            <div class="modal-content">
+                <p>Hello World!</p>
+                <button type="button" onclick="closeModal()">Close</button>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
