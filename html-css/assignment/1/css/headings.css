@@ -1,0 +1,19 @@
+h1 {
+    /* border: 1px dashed yellow; */
+
+    /* center */
+    margin: auto;
+    width: 500px;
+}
+
+/* grouping selector */
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: red;
+
+    /* top and bottom */
+    margin: 5px, 10px;
+}

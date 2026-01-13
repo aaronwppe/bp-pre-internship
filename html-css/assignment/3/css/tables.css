@@ -1,0 +1,25 @@
+.emp-table {
+    border: 1px dashed black;
+    text-align: center;
+    width: 80%;
+    max-width: 700px;
+    margin: auto;
+    border-collapse: collapse;
+    margin-top: 5%;
+}
+
+.emp-table thead {
+    background-color: yellow;
+    border-bottom: 2px solid black;
+}
+
+.emp-table th,
+td {
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+}
+
+.emp-table tbody tr:nth-child(even) {
+    background-color: gray;
+    color: white;
+}

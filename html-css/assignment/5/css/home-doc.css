@@ -1,0 +1,21 @@
+.home-doc {
+    display: flex;
+    font-size: large;
+    flex-direction: column;
+}
+
+.home-doc header {
+    border-bottom: 1px solid black;
+    padding: 1% 3%;
+}
+
+.home-doc article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.home-doc article p {
+    gap: 2rem;
+    max-width: 60%;
+}

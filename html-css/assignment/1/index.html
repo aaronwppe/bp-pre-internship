@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Basics</title>
+
+    <!--External CSS being used below-->
+    <link rel="stylesheet" href="css/headings.css">
+    <link rel="stylesheet" href="css/paragraph.css">
+
+    <!--Using internal CSS here. 
+        Order in which rules are defined matters here.
+        Paragraph color of this internal CSS will be applied.
+        'paragraph.css' rules will be overridden.-->
+    <style>
+        p {
+            padding: 5%;
+            color: white;
+            border: 2px solid;
+            margin: 2%;
+        }
+    </style>
+</head>
+
+<body style="background-color: blue;">
+    <!--Used inline CSS to set background color of entire body. 
+        If a CSS rule is defined here it takes precedence over external and internal CSS.
+        Defining CSS like this is usually frowned upon.-->
+
+    <h1>This is a heading of type 1</h1>
+    <h2>This is Sub Heading</h2>
+    <p>
+        This is a paragraph.
+    </p>
+
+</body>
+
+</html>
+<!--
+    Create an HTML5 page and a separate CSS file. 
+    Requirements: 
+        - Link external CSS file 
+        - Style body, headings, and paragraphs 
+        - Use colors, fonts, and spacing 
+        - Explain inline vs internal vs external CSS (comments) 
+-->
