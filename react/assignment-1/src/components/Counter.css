@@ -1,0 +1,12 @@
+.counter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    width: 20%;
+    height: 20%;
+    background-color: red;
+    gap: 2rem;
+    padding: 2%;
+    font-size: xx-large;
+}
