@@ -1,0 +1,11 @@
+order_id,customer_id,order_date,city,category,quantity,unit_price,discount_pct,payment_mode,gross_amount,net_amount,is_high_value
+1001,C001,2024-01-05,Bangalore,Electronics,2,45000,10,Credit Card,90000,81000.0,True
+1002,C002,2024-01-08,Mumbai,Fashion,3,2500,5,UPI,7500,7125.0,False
+1003,C003,2024-01-15,Delhi,Electronics,1,60000,15,Net Banking,60000,51000.0,True
+1004,C001,2024-02-02,Bangalore,Home,4,1200,0,Cash,4800,4800.0,False
+1005,C004,2024-02-10,Chennai,Fashion,2,3500,20,Credit Card,7000,5600.0,False
+1006,C002,2024-02-18,Mumbai,Electronics,1,48000,5,UPI,48000,45600.0,False
+1007,C005,2024-03-01,Pune,Home,5,900,0,Cash,4500,4500.0,False
+1008,C003,2024-03-12,Delhi,Fashion,2,4200,10,Net Banking,8400,7560.0,False
+1009,C006,2024-03-20,Bangalore,Electronics,1,52000,8,UPI,52000,47840.0,False
+1010,C004,2024-04-05,Chennai,Home,3,1500,0,Credit Card,4500,4500.0,False

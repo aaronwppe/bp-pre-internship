@@ -1,0 +1,7 @@
+customer_id,signup_date,segment
+C001,2023-10-12,Premium
+C002,2023-11-05,Regular
+C003,2023-12-01,Premium
+C004,2024-01-10,Regular
+C005,2024-01-20,New
+C006,2024-02-02,New
